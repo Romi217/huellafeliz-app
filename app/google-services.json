@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838019210208",
+    "project_id": "huellafeliz-7994e",
+    "storage_bucket": "huellafeliz-7994e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838019210208:android:f1bd6e1414b8eae42e2985",
+        "android_client_info": {
+          "package_name": "com.example.huellafeliz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUt9Ns_6R86D_fsvIf-VI7Nz05o6jt47g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
